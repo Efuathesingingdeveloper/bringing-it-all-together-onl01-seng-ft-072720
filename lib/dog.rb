@@ -61,4 +61,4 @@ def save
     }
     self.new(attributes_hash)
   end
-end
+
